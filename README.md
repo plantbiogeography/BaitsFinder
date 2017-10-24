@@ -18,4 +18,4 @@ BaitsFinder is a combination of several python scripts (python 2.7) and freely a
 Details for tasks of step 1 likely will differ strongly among study groups (and may be skipped altogether, if reference data are already available). Therefore, the few scripts pertaining to this step (all in the folder "###") are tailored for the study groups used by us and will have to be modified, where needed.
 Steps 2 to 7 are done by three scripts: blast_tcl.py (first part of step 2), combined_ini.py (second part of step 2 until first part of step 7), and remove-plastid.py (last part of step 7). See the step-by-step guide for further details.
 
-Example data (reference species and four focal species, an example config file as requested by the script config-ini.py) are provided in teh folder "example data"
+Example data (reference species and four focal species, an example config file as requested by the script config-ini.py) are provided in the folder "example data"
