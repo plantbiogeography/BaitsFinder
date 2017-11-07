@@ -1,4 +1,4 @@
-lines=open('editMguttatus.arabidopsis.1-p').readlines()
+lines=open('Mguttatus.arabidopsis.1-p').readlines()
 myfile=open('Mguttatus.arabidopsis.single.gene.list','w')
 c=[]
 d=[]
