@@ -6,7 +6,7 @@ for line in lines:
     if a0!=a1:
         h.append(a0)
         h.append(a1)
-lines=open('editMguttatus.arabidopsis.1-p').readlines()
+lines=open('Mguttatus.arabidopsis.1-p').readlines()
 myfile=open('Mguttatus.arabidopsis.single.gene.list.-2','w')
 c=[]
 d=[]
